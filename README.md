@@ -8,4 +8,4 @@
 
 ## [Vscode Configurations](https://github.com/myfruitmango/VSCode-Configurations)
 > [!NOTE]
-> Coming Soon!
+> 🚧 Coming Soon!
