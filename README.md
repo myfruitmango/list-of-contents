@@ -1,6 +1,9 @@
 # List Of Contents
 
-## [Doc](https://github.com/myfruitmango/doc)
+## [Sample](https://github.com/myfruitmango/doc)
+- ReactJs
+- JavaScript
+- PHP
 
 ## [Git Cheatsheet](https://github.com/myfruitmango/git-cheatsheet)
 
