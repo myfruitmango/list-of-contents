@@ -1,7 +1,7 @@
 # List Of Contents 🚀
 
 ## [Sample](https://github.com/myfruitmango/doc)
-- [https://github.com/myfruitmango/doc/tree/master/ReactJs](ReactJs)
+- [ReactJs](https://github.com/myfruitmango/doc/tree/master/ReactJs)
 - JavaScript
 - PHP
 
